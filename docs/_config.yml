@@ -1,2 +1,2 @@
 theme: jekyll-theme-architect
-subsite: Baloo 
+permalink: Baloo/:categories/:year/:month/:day/:title.html

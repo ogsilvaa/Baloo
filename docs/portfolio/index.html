@@ -13,7 +13,7 @@ title: Portfolio
   {% for post in site.posts %}
  
   <li>
-    <a href="{{page.path}}{{ post.url }}">
+    <a href="{{site.url}}{{ post.url }}">
       <img src="{{ post.image }}" />
       <h3>{{ post.title }}</h3>
     </a>
